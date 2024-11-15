@@ -80,6 +80,14 @@ supervision of
 * [TBA (*S_ID: TBA*)](mailto:tba@g.bracu.ac.bd) \[**member**\]
 
 
+### Project Descriptions
+
+TBA (*Will be added after the semester*)
+
+### Results
+
+TBA (*Will be added after the semester*)
+
 &#160;
 
 <div align="center">Copyright &copy; 2024-present
