@@ -74,7 +74,7 @@ supervision of
 ### Team Information
 
 * [ATHAR NOOR MOHAMMAD RAFEE (*S_ID: 24366014*)](mailto:inmoresentum@inmoresentum.net) \[**owner**\]
-* [MD. SHALEH ISLAM TONMOY (*S_ID: 24366012*)](mailto:shaleh.islam.tonmoy@g.bracu.ac.bd) \[**member**\]
+* [MD. SHALEH ISLAM TONMOY (*S_ID: 24366012*)](mailto:shaleh.islam.tonmoy@g.bracu.ac.bd) \[**owner**\]
 * [TBA (*S_ID: TBA*)](mailto:tba@g.bracu.ac.bd) \[**member**\]
 * [TBA (*S_ID: TBA*)](mailto:tba@g.bracu.ac.bd) \[**member**\]
 * [TBA (*S_ID: TBA*)](mailto:tba@g.bracu.ac.bd) \[**member**\]
