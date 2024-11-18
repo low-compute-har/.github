@@ -77,7 +77,7 @@ supervision of
 * [MD. SHALEH ISLAM TONMOY (*S_ID: 24366012*)](mailto:shaleh.islam.tonmoy@g.bracu.ac.bd) \[**owner**\]
 * [PRATICK BHOWMICK (*S_ID: 24266043*)](mailto:pratick.bhowmick@g.bracu.ac.bd) \[**member**\]
 * [MASHRUFA AKTAR TAMIM (*S_ID: 24366031*)](mailto:mashrufa.aktar.tamim@g.bracu.ac.bd) \[**member**\]
-* [TBA (*S_ID: TBA*)](mailto:tba@g.bracu.ac.bd) \[**member**\]
+* [MAHAMUDUL HASAN HIMEL (*S_ID: 24373005*)](mailto:mahamudul.hasan.himel@g.bracu.ac.bd) \[**member**\]
 
 
 ### Project Descriptions
